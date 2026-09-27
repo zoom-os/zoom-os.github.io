@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Monochrome Squircle Base -->
+  <rect x="32" y="32" width="448" height="448" rx="112" fill="#000000" />
+  <!-- Mathematically and optically centered symmetrical 'Z' -->
+  <path d="M 140 155 L 372 155 L 372 197 L 212 315 L 372 315 L 372 357 L 140 357 L 140 315 L 300 197 L 140 197 Z" fill="#ffffff" />
+</svg>
